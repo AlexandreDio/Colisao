@@ -56,7 +56,7 @@ namespace Colisao
                         personagem.Visible = false;
                         pnlMsgGameOver.Visible = true;
                         lblMsgGameOver.Visible = true;
-                        lblMsgGameOver.Text = "GAME OVER";
+                        lblMsgGameOver.Text = "FIM DE JOGO";
                     }
                 }
             }
