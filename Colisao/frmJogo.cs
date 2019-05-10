@@ -198,6 +198,7 @@ namespace Colisao
         private void frmJogo_Load(object sender, EventArgs e)
         {
             TocaAudio("overworld.mp3");
+            this.WindowState = FormWindowState.Maximized;
         }
     }
 }

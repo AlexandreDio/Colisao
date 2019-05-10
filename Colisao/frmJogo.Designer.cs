@@ -70,7 +70,7 @@
             this.pnlMsgGameOver.Controls.Add(this.lblMsgGameOver);
             this.pnlMsgGameOver.Dock = System.Windows.Forms.DockStyle.Top;
             this.pnlMsgGameOver.Location = new System.Drawing.Point(0, 0);
-            this.pnlMsgGameOver.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pnlMsgGameOver.Margin = new System.Windows.Forms.Padding(2);
             this.pnlMsgGameOver.Name = "pnlMsgGameOver";
             this.pnlMsgGameOver.Size = new System.Drawing.Size(807, 81);
             this.pnlMsgGameOver.TabIndex = 3;
@@ -104,7 +104,7 @@
             // 
             this.pbVilao.Image = global::Colisao.Properties.Resources.red_guy;
             this.pbVilao.Location = new System.Drawing.Point(413, 254);
-            this.pbVilao.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pbVilao.Margin = new System.Windows.Forms.Padding(2);
             this.pbVilao.Name = "pbVilao";
             this.pbVilao.Size = new System.Drawing.Size(57, 60);
             this.pbVilao.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -116,7 +116,7 @@
             // 
             this.pbHeroi.Image = global::Colisao.Properties.Resources.Right;
             this.pbHeroi.Location = new System.Drawing.Point(28, 118);
-            this.pbHeroi.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pbHeroi.Margin = new System.Windows.Forms.Padding(2);
             this.pbHeroi.Name = "pbHeroi";
             this.pbHeroi.Size = new System.Drawing.Size(69, 71);
             this.pbHeroi.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -128,7 +128,7 @@
             // 
             this.pictureBox7.Image = global::Colisao.Properties.Resources.Moeda;
             this.pictureBox7.Location = new System.Drawing.Point(105, 318);
-            this.pictureBox7.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox7.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(29, 27);
             this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -140,7 +140,7 @@
             // 
             this.pictureBox6.Image = global::Colisao.Properties.Resources.Moeda;
             this.pictureBox6.Location = new System.Drawing.Point(328, 403);
-            this.pictureBox6.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox6.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(29, 27);
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -152,7 +152,7 @@
             // 
             this.pictureBox5.Image = global::Colisao.Properties.Resources.Moeda;
             this.pictureBox5.Location = new System.Drawing.Point(350, 104);
-            this.pictureBox5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox5.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(29, 27);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -164,7 +164,7 @@
             // 
             this.pictureBox4.Image = global::Colisao.Properties.Resources.Moeda;
             this.pictureBox4.Location = new System.Drawing.Point(586, 86);
-            this.pictureBox4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox4.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(29, 27);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -176,7 +176,7 @@
             // 
             this.pictureBox3.Image = global::Colisao.Properties.Resources.Moeda;
             this.pictureBox3.Location = new System.Drawing.Point(724, 183);
-            this.pictureBox3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(29, 27);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -188,7 +188,7 @@
             // 
             this.pictureBox2.Image = global::Colisao.Properties.Resources.Moeda;
             this.pictureBox2.Location = new System.Drawing.Point(658, 395);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(29, 27);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -200,7 +200,7 @@
             // 
             this.pictureBox1.Image = global::Colisao.Properties.Resources.Moeda;
             this.pictureBox1.Location = new System.Drawing.Point(499, 503);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(29, 27);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -212,7 +212,7 @@
             // 
             this.pbMoeda.Image = global::Colisao.Properties.Resources.Moeda;
             this.pbMoeda.Location = new System.Drawing.Point(47, 475);
-            this.pbMoeda.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pbMoeda.Margin = new System.Windows.Forms.Padding(2);
             this.pbMoeda.Name = "pbMoeda";
             this.pbMoeda.Size = new System.Drawing.Size(29, 27);
             this.pbMoeda.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -236,7 +236,7 @@
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.pbMoeda);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "frmJogo";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.frmJogo_Load);
